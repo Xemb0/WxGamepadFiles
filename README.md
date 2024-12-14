@@ -14,9 +14,8 @@ Find WxGamepad in the list of apps and check the box next to it to allow access.
 If WxGamepad is not listed, click the "+" button, navigate to your Applications folder, select WxGamepad, and click Open to add it.
 You may need to restart the app after granting permission.
 <h2 align="left">Grant Network Access</h2>
-Go to System Preferences > Security & Privacy > Firewall tab.
-Click Firewall Options and ensure that WxGamepad is allowed to accept incoming connections.
-If WxGamepad is not listed, click the "+" button, select the app, and click Add to permit network access.
+
+permit network access. if Asked 
 <h2 align="left">Scan the QR Code</h2>
 Open the WxGamepad application.
 The app will display a QR code on the main screen.
